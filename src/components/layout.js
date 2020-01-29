@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import { StaticQuery, graphql } from 'gatsby'
 
 import cosmicjsLogo from '../../static/cosmicjs.svg'
-import gatsbyLogo from '../../static/gatsby.png'
+import gatsbyLogo from '../../static/gatsby.svg'
 import { rhythm, scale } from '../utils/typography'
 
 // Import typefaces
